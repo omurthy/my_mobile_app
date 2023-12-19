@@ -1,6 +1,6 @@
 # my_mobile_app
 
-A new Flutter project.
+A new Flutter project. This is a sample mobile client which consumes my goBackend API
 
 ## Getting Started
 
